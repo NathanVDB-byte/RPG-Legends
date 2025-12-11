@@ -1,5 +1,3 @@
-# RPG-Legends
-
 # 🏰 Mini RPG - Dungeon Crawler (Pygame)
 
 ## 📋 Description du Projet
