@@ -23,7 +23,7 @@ pip install pygame
 
 ### Lancement du Jeu
 ```bash
-python jeu16.py
+python jeu20.py
 ```
 
 
@@ -31,7 +31,7 @@ python jeu16.py
 
 ## 📂 Structure du Code : Explication Étape par Étape
 
-Le fichier `jeu16.py` est structuré de manière **monolithique** pour faciliter le prototypage, mais divisé en sections logiques distinctes.
+Le fichier `jeu20.py` est structuré de manière **monolithique** pour faciliter le prototypage, mais divisé en sections logiques distinctes.
 
 ### 1. Configuration et Imports
 - **Bibliothèques standards :** `os` (gestion des chemins de fichiers compatible Windows/Linux), `json` (système de sauvegarde), `random` (génération procédurale des combats/loots)
@@ -100,9 +100,9 @@ Le jeu utilise un **Pattern de Machine à États** (State Machine).
 ## 🚀 Prochaines Améliorations (Roadmap)
 
 - [ ] Ajout d'effets visuels pour les coups critiques
-- [ ] Système de boutique (Marchand)
+- [X] Système de boutique (Marchand)
 - [ ] Compétences spéciales par classe (Mana)
-- [ ] Interface de "Drag & Drop" pour l'équipement (optionnel, plus complexe)
+- [X] Interface de "Drag & Drop" pour l'équipement (optionnel)
 
 ---
 
@@ -115,9 +115,10 @@ Ce projet est distribué sous licence MIT. Vous êtes libre de le modifier et le
 Développé par **Nathan VDB** - Administrateur Systèmes et Réseaux
 
 ---
+## Versions du jeu
 
-Jeu 12 : ok  Final mais sans les Items d'armes et d'armures
+Jeu_RPG\Versions Alpha : `Jeu 12` Version finale du jeu, sans système d’items d’armes et d’armures.
 
-Jeu 16 : ok Final avec armes et armures ok
+Jeu_RPG : `Jeu 20` Version finale du jeu avec système complet d’armes et d’armures.
 
 
