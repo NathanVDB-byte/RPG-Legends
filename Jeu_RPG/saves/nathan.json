@@ -1,0 +1,42 @@
+{
+    "name": "nathan",
+    "max_hp": 100,
+    "hp": 100,
+    "attack": 442,
+    "defense": 280,
+    "inventory": [
+        {
+            "name": "Peau de Pierre (+5)",
+            "type": "def",
+            "val": 5,
+            "desc": "+5 D\u00e9fense perm."
+        },
+        {
+            "name": "Acier Liquide (+10)",
+            "type": "def",
+            "val": 10,
+            "desc": "+10 D\u00e9fense perm."
+        },
+        {
+            "name": "Elixir Force (+5)",
+            "type": "atk",
+            "val": 5,
+            "desc": "+5 Attaque perm."
+        },
+        {
+            "name": "Grde Potion (30)",
+            "type": "heal",
+            "val": 30,
+            "desc": "Rend 30 PV"
+        },
+        {
+            "name": "Elixir Force (+5)",
+            "type": "atk",
+            "val": 5,
+            "desc": "+5 Attaque perm."
+        }
+    ],
+    "floor": 20,
+    "kills": 0,
+    "job_class": "Aventurier"
+}

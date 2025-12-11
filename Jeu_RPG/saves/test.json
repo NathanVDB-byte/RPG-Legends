@@ -1,0 +1,8 @@
+{
+    "name": "test",
+    "max_hp": 100,
+    "hp": 100,
+    "attack": 15,
+    "defense": 5,
+    "inventory": []
+}
