@@ -1,0 +1,21 @@
+{
+    "name": "gauvin",
+    "max_hp": 100,
+    "hp": 90,
+    "attack": 25,
+    "defense": 5,
+    "inventory": [
+        {
+            "name": "Rage du Dragon (+10)",
+            "type": "atk",
+            "val": 10,
+            "desc": "+10 Attaque perm."
+        },
+        {
+            "name": "Elixir Force (+5)",
+            "type": "atk",
+            "val": 5,
+            "desc": "+5 Attaque perm."
+        }
+    ]
+}
