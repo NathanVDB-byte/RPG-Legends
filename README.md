@@ -16,13 +16,15 @@ Le projet met l'accent sur la **persistance des données** (sauvegardes JSON), l
 
 ### Installation des dépendances
 Ouvrez votre terminal (PowerShell ou CMD) et exécutez :
+```bash
 pip install pygame
-
+```
 
 
 ### Lancement du Jeu
+```bash
 python jeu16.py
-
+```
 
 
 ---
