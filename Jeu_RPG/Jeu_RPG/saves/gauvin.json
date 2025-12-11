@@ -1,0 +1,87 @@
+{
+    "name": "gauvin",
+    "max_hp": 100,
+    "hp": 2,
+    "attack": 25,
+    "defense": 5,
+    "inventory": [
+        {
+            "name": "Rage du Dragon (+10)",
+            "type": "atk",
+            "val": 10,
+            "desc": "+10 Attaque perm."
+        },
+        {
+            "name": "Elixir Force (+5)",
+            "type": "atk",
+            "val": 5,
+            "desc": "+5 Attaque perm."
+        },
+        {
+            "name": "Peau de Pierre (+5)",
+            "type": "def",
+            "val": 5,
+            "desc": "+5 D\u00e9fense perm."
+        },
+        {
+            "name": "Potion Soin (15)",
+            "type": "heal",
+            "val": 15,
+            "desc": "Rend 15 PV"
+        },
+        {
+            "name": "Rage Dragon (+10)",
+            "type": "atk",
+            "val": 10,
+            "desc": "+10 Attaque perm."
+        },
+        {
+            "name": "Acier Liquide (+10)",
+            "type": "def",
+            "val": 10,
+            "desc": "+10 D\u00e9fense perm."
+        },
+        {
+            "name": "Rage Dragon (+10)",
+            "type": "atk",
+            "val": 10,
+            "desc": "+10 Attaque perm."
+        },
+        {
+            "name": "Rage Dragon (+10)",
+            "type": "atk",
+            "val": 10,
+            "desc": "+10 Attaque perm."
+        },
+        {
+            "name": "Elixir Force (+5)",
+            "type": "atk",
+            "val": 5,
+            "desc": "+5 Attaque perm."
+        },
+        {
+            "name": "Potion Soin (15)",
+            "type": "heal",
+            "val": 15,
+            "desc": "Rend 15 PV"
+        },
+        {
+            "name": "Peau de Pierre (+5)",
+            "type": "def",
+            "val": 5,
+            "desc": "+5 D\u00e9fense perm."
+        },
+        {
+            "name": "Acier Liquide (+10)",
+            "type": "def",
+            "val": 10,
+            "desc": "+10 D\u00e9fense perm."
+        },
+        {
+            "name": "Grde Potion (30)",
+            "type": "heal",
+            "val": 30,
+            "desc": "Rend 30 PV"
+        }
+    ]
+}

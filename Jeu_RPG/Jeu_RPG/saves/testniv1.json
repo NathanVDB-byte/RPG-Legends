@@ -1,0 +1,11 @@
+{
+    "name": "testniv1",
+    "max_hp": 100,
+    "hp": 39,
+    "attack": 25,
+    "defense": 10,
+    "inventory": [],
+    "floor": 1,
+    "kills": 10,
+    "job_class": "Guerrier"
+}
