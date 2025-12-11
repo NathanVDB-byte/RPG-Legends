@@ -1,0 +1,39 @@
+{
+    "name": "test",
+    "base_max_hp": 100,
+    "hp": 100,
+    "base_attack": 15,
+    "base_defense": 5,
+    "inventory": [
+        {
+            "name": "Potion Soin (15)",
+            "type": "heal",
+            "val": 15,
+            "desc": "Rend 15 PV",
+            "cat": "consommable",
+            "base_price": 20
+        },
+        {
+            "name": "Epee Rouillee",
+            "cat": "equipment",
+            "slot": "weapon",
+            "atk": 5,
+            "def": 0,
+            "hp": 0,
+            "desc": "+5 ATK",
+            "base_price": 10
+        }
+    ],
+    "equipment": {
+        "head": null,
+        "chest": null,
+        "legs": null,
+        "feet": null,
+        "weapon": null,
+        "ring": null
+    },
+    "floor": 1,
+    "kills": 0,
+    "job_class": "Guerrier",
+    "gold": 0
+}
