@@ -119,6 +119,6 @@ Développé par **Nathan VDB** - Administrateur Systèmes et Réseaux
 
 Jeu_RPG\Versions Alpha : `Jeu 12` Version finale du jeu, sans système d’items d’armes et d’armures.
 
-Jeu_RPG : `Jeu 20` Version finale du jeu avec système complet d’armes et d’armures.
+Jeu_RPG : `Jeu 20` Version finale du jeu avec système complet d’armes et d’armures + boutique.
 
 
